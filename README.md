@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3471926.svg)](https://doi.org/10.5281/zenodo.3471926)
+
 # DVM-LBM for the Couette-flow problem
 
 Hybrid finite-volume solver based on the lattice-Boltzmann &amp; discrete-velocity methods for the Couette problem.
